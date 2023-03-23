@@ -1,0 +1,84 @@
+*{
+    font-family: 'Lora', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+
+    }
+      
+
+
+header {
+ text-align: center;
+ 
+  }
+  
+.link-header{
+    color: #111111;
+    padding: 12px 12px;
+    font-size: 14px;
+    transition: .3s ease-out all;
+    font-weight: 900;
+    border-radius: 5px;
+    font-size: 30px;
+    margin-top: 47px;
+    margin-left: 42px;
+    cursor: pointer;
+    
+  }
+
+h1 {
+    font-size: 80px;
+    margin: 35px;
+    text-align: center;
+    border-color: #d3d3d3;
+    
+}
+
+section{
+    margin-left: 20px;
+}
+.americaimg{
+   
+    
+    width: 300px;
+    height: 380px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.abcimg{
+
+    width: 300px;
+    height: 380px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.alecrimimg{
+
+    width: 300px;
+    height: 380px;
+    display: inline-block;
+    cursor: pointer;
+      }
+
+      .stimg{
+        width: 340px;
+        height: 320px;
+        display: inline-block;
+        cursor: pointer;
+      }
+
+      .fcimg{
+        width: 300px;
+        height: 380px;
+        display: inline-block;
+        cursor: pointer;
+      }
+
+
+
+
